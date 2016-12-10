@@ -2,13 +2,13 @@
 
 A basic postCSS gulpfile.
 
-*cssimport
-*autoprefixer
-*customproperties
-*apply
-*mixins
-*nested
-*customMedia
+* cssimport
+* autoprefixer
+* customproperties
+* apply
+* mixins
+* nested
+* customMedia
 
 <pre>
 <code>
